@@ -9,4 +9,5 @@ statsmodels
 flask
 catboost
 xgboost
+dill
 #-e .
